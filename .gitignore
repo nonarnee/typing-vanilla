@@ -1,0 +1,25 @@
+# Node.js Modules
+node_modules
+
+# Build Output
+/dist/
+/build
+
+# Intellij
+.idea
+
+# .env
+.env.local
+.env.*.local
+
+# log
+*-error.log
+*-debug.log
+
+# misc...
+.DS_Store
+.eslintcache
+.credentials
+
+# merge execute
+*.orig
